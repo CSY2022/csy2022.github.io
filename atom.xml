@@ -2,9 +2,9 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-    <title type="text">Hugo 主题 MemE</title>
+    <title type="text">CSY2022的个人博客</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2022-10-02T17:04:00&#43;08:00</updated>
+    <updated>2022-10-02T17:17:30&#43;08:00</updated>
     <id>https://csy2022.github.io/</id>
     <link rel="alternate" type="text/html" href="https://csy2022.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://csy2022.github.io/atom.xml" />
@@ -20,16 +20,16 @@
             <title type="text">我的第一篇博客</title>
             <link rel="alternate" type="text/html" href="https://csy2022.github.io/posts/myfirst/" />
             <id>https://csy2022.github.io/posts/myfirst/</id>
-            <updated>2018-09-26T00:00:00&#43;00:00</updated>
-            <published>2018-09-18T00:00:00&#43;00:00</published>
+            <updated>2022-10-02T17:14:58&#43;08:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
                     <name>reuixiy</name>
                     <uri>https://io-oi.me/</uri>
                     <email>reuixiy@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">这是描述信息</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">一切的开始</summary>
             
-                <content type="html">&lt;p&gt;这里是Markdown 正文&lt;/p&gt;
+                <content type="html">&lt;p&gt;我的博客开通了！！！&lt;/p&gt;
 </content>
             
             
@@ -52,7 +52,7 @@
                             
                             
                             
-                                <category scheme="https://csy2022.github.io/tags/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%A0%87%E7%AD%BE/" term="我的博客标签" label="我的博客标签" />
+                                <category scheme="https://csy2022.github.io/tags/%E5%85%B6%E4%BB%96/" term="其他" label="其他" />
                             
                         
                     

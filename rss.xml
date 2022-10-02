@@ -7,7 +7,7 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Hugo 主题 MemE</title>
+        <title>CSY2022的个人博客</title>
         <link>https://csy2022.github.io/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.104.2 https://gohugo.io/</generator>
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 02 Oct 2022 17:04:00 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 02 Oct 2022 17:17:30 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://csy2022.github.io/rss.xml" />
         
@@ -32,13 +32,13 @@
                 <title>我的第一篇博客</title>
                 <link>https://csy2022.github.io/posts/myfirst/</link>
                 <guid isPermaLink="true">https://csy2022.github.io/posts/myfirst/</guid>
-                <pubDate>Tue, 18 Sep 2018 00:00:00 &#43;0000</pubDate>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
                 
                     <author>reuixiy@gmail.com (reuixiy)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;这里是Markdown 正文&lt;/p&gt;
+                    <description>&lt;p&gt;我的博客开通了！！！&lt;/p&gt;
 </description>
                 
                 
@@ -61,7 +61,7 @@
                                 
                                 
                                 
-                                    <category domain="https://csy2022.github.io/tags/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%A0%87%E7%AD%BE/">我的博客标签</category>
+                                    <category domain="https://csy2022.github.io/tags/%E5%85%B6%E4%BB%96/">其他</category>
                                 
                             
                         
