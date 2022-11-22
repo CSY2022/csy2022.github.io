@@ -8,37 +8,37 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>CSY2022的个人博客</title>
-        <link>https://csy2022.github.io/</link>
-        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <link>https://csy2022.tk/</link>
+        <description>CSY2022的个人博客，创建于2022.10.2</description>
         <generator>Hugo 0.104.2 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
         
-            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
+            <managingEditor>csy2022@csy2022.tk (CSY2022)</managingEditor>
         
         
-            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
+            <webMaster>csy2022@csy2022.tk (CSY2022)</webMaster>
         
         
-            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+            <copyright>本文遵循[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)，作者是CSY2022</copyright>
         
-        <lastBuildDate>Sun, 02 Oct 2022 17:17:30 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 21:14:26 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://csy2022.github.io/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://csy2022.tk/rss.xml" />
         
         
             <item>
                 <title>我的第一篇博客</title>
-                <link>https://csy2022.github.io/posts/myfirst/</link>
-                <guid isPermaLink="true">https://csy2022.github.io/posts/myfirst/</guid>
+                <link>https://csy2022.tk/posts/myfirst/</link>
+                <guid isPermaLink="true">https://csy2022.tk/posts/myfirst/</guid>
                 <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>csy2022@csy2022.tk (CSY2022)</author>
                 
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                <copyright>本文遵循[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)，作者是CSY2022</copyright>
                 
-                    <description>&lt;p&gt;我的博客开通了！！！&lt;/p&gt;
+                    <description>&lt;p&gt;我的博客开通咯！&lt;/p&gt;
 </description>
                 
                 
@@ -51,7 +51,7 @@
                                 
                                 
                                 
-                                    <category domain="https://csy2022.github.io/categories/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%86%E7%B1%BB/">我的博客分类</category>
+                                    <category domain="https://csy2022.tk/categories/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%86%E7%B1%BB/">我的博客分类</category>
                                 
                             
                         
@@ -61,7 +61,7 @@
                                 
                                 
                                 
-                                    <category domain="https://csy2022.github.io/tags/%E5%85%B6%E4%BB%96/">其他</category>
+                                    <category domain="https://csy2022.tk/tags/%E5%85%B6%E4%BB%96/">其他</category>
                                 
                             
                         
