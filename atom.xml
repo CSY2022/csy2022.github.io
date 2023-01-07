@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">CSY2022的个人博客</title>
     <subtitle type="html">CSY2022的个人博客，创建于2022.10.2</subtitle>
-    <updated>2022-11-22T21:14:26&#43;08:00</updated>
+    <updated>2023-01-07T10:36:43&#43;08:00</updated>
     <id>https://csy2022.tk/</id>
     <link rel="alternate" type="text/html" href="https://csy2022.tk/" />
     <link rel="self" type="application/atom&#43;xml" href="https://csy2022.tk/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">我的第一篇博客</title>
             <link rel="alternate" type="text/html" href="https://csy2022.tk/posts/myfirst/" />
             <id>https://csy2022.tk/posts/myfirst/</id>
-            <updated>2022-11-22T21:02:49&#43;08:00</updated>
+            <updated>2023-01-07T10:09:49&#43;08:00</updated>
             <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
                     <name>CSY2022</name>
@@ -29,7 +29,7 @@
                     </author>
             <rights>本文遵循[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)，作者是CSY2022</rights><summary type="html">一切的开始</summary>
             
-                <content type="html">&lt;p&gt;我的博客开通咯！&lt;/p&gt;
+                <content type="html">&lt;p&gt;今天，2022年10月2日，我的博客开通咯！😊😊😊&lt;/p&gt;
 </content>
             
             
@@ -42,7 +42,7 @@
                             
                             
                             
-                                <category scheme="https://csy2022.tk/categories/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%88%86%E7%B1%BB/" term="我的博客分类" label="我的博客分类" />
+                                <category scheme="https://csy2022.tk/categories/%E9%87%8C%E7%A8%8B%E7%A2%91/" term="里程碑" label="里程碑" />
                             
                         
                     
@@ -52,7 +52,7 @@
                             
                             
                             
-                                <category scheme="https://csy2022.tk/tags/%E5%85%B6%E4%BB%96/" term="其他" label="其他" />
+                                <category scheme="https://csy2022.tk/tags/%E7%BA%AA%E5%BF%B5/" term="纪念" label="纪念" />
                             
                         
                     
