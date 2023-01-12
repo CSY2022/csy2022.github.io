@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">CSY2022的个人博客</title>
     <subtitle type="html">CSY2022的个人博客，创建于2022.10.2</subtitle>
-    <updated>2023-01-07T11:17:15&#43;08:00</updated>
+    <updated>2023-01-12T10:26:10&#43;08:00</updated>
     <id>https://csy2022.tk/</id>
     <link rel="alternate" type="text/html" href="https://csy2022.tk/" />
     <link rel="self" type="application/atom&#43;xml" href="https://csy2022.tk/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">我的第一篇博客</title>
             <link rel="alternate" type="text/html" href="https://csy2022.tk/posts/myfirst/" />
             <id>https://csy2022.tk/posts/myfirst/</id>
-            <updated>2023-01-07T10:09:49&#43;08:00</updated>
+            <updated>2023-01-12T10:18:55&#43;08:00</updated>
             <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
                     <name>CSY2022</name>
