@@ -21,12 +21,112 @@
             <webMaster>csy2022@csy2022.tk (CSY2022)</webMaster>
         
         
-            <copyright>本文遵循[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)，作者是CSY2022</copyright>
+            <copyright>本文遵循[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)，作者是CSY2022，[点此下载本站APP](https://csy2022.tk)</copyright>
         
-        <lastBuildDate>Thu, 12 Jan 2023 10:26:10 &#43;0800</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 21:14:24 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://csy2022.tk/rss.xml" />
         
+        
+            <item>
+                <title>Github Pages加速访问的两种方式</title>
+                <link>https://csy2022.tk/posts/2/</link>
+                <guid isPermaLink="true">https://csy2022.tk/posts/2/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                    <author>csy2022@csy2022.tk (CSY2022)</author>
+                
+                <copyright>本文遵循[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)，作者是CSY2022，[点此下载本站APP](https://csy2022.tk)</copyright>
+                
+                    <description>&lt;h2 id=&#34;1-cloudflare-pages-不推荐&#34;&gt;1. Cloudflare Pages (不推荐)&lt;/h2&gt;
+&lt;p&gt;似乎 &lt;strong&gt;Cloudflare Pages&lt;/strong&gt; 导入 &lt;strong&gt;Github&lt;/strong&gt; 仓库搭建网页比单纯用 &lt;strong&gt;Github Pages&lt;/strong&gt; 要稳定，也要更快。数据来源：&lt;a href=&#34;boce.com&#34;&gt;拨测&lt;/a&gt;(侵删，下同)，如下图 (图片加载耗时较长)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://s1.ax1x.com/2023/02/04/pSy0SOK.jpg&#34; alt=&#34;对比图1&#34; title=&#34;明显差距&#34;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;因此，使用 &lt;strong&gt;Cloudflare Pages&lt;/strong&gt; 替代 &lt;strong&gt;Github Pages&lt;/strong&gt; 不失为良策。(前提:关闭了Cloudflare CDN,&lt;del&gt;这东西开了在国内反而会减速&lt;/del&gt;)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2-vercel&#34;&gt;2. Vercel&lt;/h2&gt;
+&lt;p&gt;不过&lt;strong&gt;Vercel&lt;/strong&gt; 从 &lt;strong&gt;Github&lt;/strong&gt; 仓库导入部署才是真正的王者😄😄😄。&lt;del&gt;真绿啊&lt;/del&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://s1.ax1x.com/2023/02/19/pSLoW2d.jpg&#34; alt=&#34;对比图2&#34; title=&#34;真正的王者&#34;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://csy2022.tk/categories/%E5%89%8D%E7%AB%AF/">前端</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://csy2022.tk/tags/githubpages/">GithubPages</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>本站安卓APP发布</title>
+                <link>https://csy2022.tk/posts/3/</link>
+                <guid isPermaLink="true">https://csy2022.tk/posts/3/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                    <author>csy2022@csy2022.tk (CSY2022)</author>
+                
+                <copyright>本文遵循[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)，作者是CSY2022，[点此下载本站APP](https://csy2022.tk)</copyright>
+                
+                    <description>&lt;p&gt;&lt;strong&gt;2022&lt;/strong&gt; 年年底，为了解决手机用户需要通过输入网址访问过于反人类的问题，我用由开发者寒歌开发的 &lt;strong&gt;一个木函&lt;/strong&gt; 生成了&lt;a href=&#34;https://csy2022.tk/csy2022.apk&#34;&gt;CSY2022个人博客的安卓App&lt;/a&gt; 。但因为学业忙碌等种种原因，在今年才正式撰文发布。
+截止至今日，最新版本是 &lt;strong&gt;1.2&lt;/strong&gt; 版本，欢迎点击&lt;a href=&#34;https://csy2022.tk/csy2022.apk&#34;&gt;蓝色字体&lt;/a&gt;下载体验😚😚😚&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://csy2022.tk/categories/%E5%AE%89%E5%8D%93%E7%AB%AF/">安卓端</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://csy2022.tk/categories/%E9%87%8C%E7%A8%8B%E7%A2%91/">里程碑</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://csy2022.tk/tags/%E5%BB%BA%E7%AB%99/">建站</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>我的第一篇博客</title>
@@ -36,7 +136,7 @@
                 
                     <author>csy2022@csy2022.tk (CSY2022)</author>
                 
-                <copyright>本文遵循[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)，作者是CSY2022</copyright>
+                <copyright>本文遵循[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)，作者是CSY2022，[点此下载本站APP](https://csy2022.tk)</copyright>
                 
                     <description>&lt;p&gt;今天，2022年10月2日，我的博客开通咯！😊😊😊&lt;/p&gt;
 </description>
