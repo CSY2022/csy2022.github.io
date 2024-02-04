@@ -1,11 +1,11 @@
 {
   "spider":"https://raw.csy2022.tk/2hacc/TVBox/main/jar/tvbox.txt;md5;056cf130cd8463725c2038c7bc59664f",
-  "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+  "wallpaper":"https://www.todaybing.com/api/today/cn",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "https://raw.csy2022.tk/2hacc/TVBox/main/live/live.txt",
+      "url": "https://csy2022.tk/live.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
