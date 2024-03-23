@@ -48,7 +48,10 @@ for i1 in range(0, 4):
                                 print(num3,sym[k2],"{:.2f}".format(result1),'=',"{:.2f}".format(result2))
                             else:
                                 print("{:.2f}".format(result1),sym[k2],num3,'=',"{:.2f}".format(result2))
-                            print("{:.2f}".format(result2),sym[k3],num4,'=',24)
+                            if k3==5 or k3==4:
+                                print(num4,sym[k3],"{:.2f}".format(result2),'=',24)
+                            else:
+                                print("{:.2f}".format(result2),sym[k3],num4,'=',24)
                             print('')
 if i == 0:
     print("无实数解")
