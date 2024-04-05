@@ -1,11 +1,11 @@
 {
-  "spider":"https://d.kstore.space/download/4366/tvbox.jar;md5;1ff3df38a66ee5378031e4fac1799596",
+  "spider":"https://csy2022.github.io/tvbox.jar;md5;1ff3df38a66ee5378031e4fac1799596",
   "wallpaper":"https://www.todaybing.com/api/today/cn",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "https://d.kstore.space/download/4366/live.m3u",
+      "url": "https://csy2022.github.io/live.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
