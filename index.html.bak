@@ -98,13 +98,10 @@
                                 <ul class="navigation">
                                     <li class="navigation__item">
                                         <a href="https://github.com/csy2022/" title="github" target="_blank">
-                                            <i class='fa-brands fa-github'></i>
+                                            <i class='social iconfont icon-github'></i>
                                             <span class="label">github</span>
                                         </a>
                                     </li>
-                  <li class="navigation__item">
-                    <a href="https://m.bilibili.com/space/3493082699926050" title="Bilibili" target="_blank">
-                      <i class="fa-brands fa-bilibili"></i>                                    
                                 </ul>
                             </nav>
                         </div>
