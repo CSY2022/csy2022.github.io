@@ -1,13 +1,13 @@
-name: Auto Update Bing Images CI
+name: Auto Update Bing Images Json
 
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 1 * * *"
   push:
-    branches: [ gh-pages ]
+    branches: [ master ]
   pull_request:
-    branches: [ gh-pages ]
+    branches: [ master ]
 
 jobs:
   build:
